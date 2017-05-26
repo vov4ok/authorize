@@ -1,6 +1,6 @@
 
 
-Redirect 301 /test/ http://google.com.ua
+#Redirect 301 /test/ http://google.com.ua
 
 
 <IfModule mod_rewrite.c>
